@@ -1,7 +1,3 @@
-Claro! Aqui está o README para o seu projeto em formato Markdown.
-
----
-
 ## 💻 Projeto PC Mania
 
 Este projeto foi desenvolvido como parte de um exercício para a disciplina de Engenharia de Software. O objetivo é criar um sistema de gerenciamento de vendas de computadores para a loja fictícia "PC Mania", com base em um diagrama de classes UML e uma tabela de promoções predefinidas.
